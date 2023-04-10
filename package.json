@@ -5,7 +5,8 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "nodemon start index.js"
+    "start": "nodemon start index.js",
+    "build": "npm i"
   },
   "keywords": [],
   "author": "Ahana De",
